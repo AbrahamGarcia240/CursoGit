@@ -5,8 +5,10 @@ git status
 //muestra el estatus en un repositorio
 
 git add <archivo>
-//agrego un archivo para que se añada el repo
+//agrego un archivo para que se añada  la cola del el repo 
 
 git add .
-//agrega todo lo que esta en la carpeta al repo
+//agrega todo lo que esta en la carpeta  la cola del el repo 
 
+git commit -m "Mensaje"
+//agrego lo que estaba en la cola dentro del repo
