@@ -21,3 +21,9 @@ git checkout <codigo>
 
 git checkout master
 //regresar al ultimo committ hecho
+
+git reset --soft
+//elimina los commits pero no toca el working area
+
+git reset --hard
+//borra todo desde el inicio de los tiempos
