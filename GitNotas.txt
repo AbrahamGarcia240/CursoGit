@@ -1,0 +1,12 @@
+git init
+//inicializa git en una carpeta
+
+git status
+//muestra el estatus en un repositorio
+
+git add <archivo>
+//agrego un archivo para que se añada el repo
+
+git add .
+//agrega todo lo que esta en la carpeta al repo
+
