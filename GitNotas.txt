@@ -44,3 +44,5 @@ git merge <rama>
 //fusionar ramas
 
 
+git branch -D <nombre rama>
+//eliminar rama
