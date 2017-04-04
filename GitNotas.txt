@@ -39,4 +39,8 @@ git checkout <rama>
 //me muevo a la rama
 
 
+SITUARSE EN LA RAMA QUE ABSORBE
+git merge <rama>
+//fusionar ramas
+
 
