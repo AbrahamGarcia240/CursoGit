@@ -27,3 +27,17 @@ git reset --soft <codigo>
 
 git reset --hard <codigo>
 //borra todo desde el inicio de los tiempos
+
+git branch
+//me dice todas mis ramas
+
+git branch <nombre>
+//crea una nueva rama
+
+
+git checkout <rama>
+//me muevo a la rama
+
+
+
+ESTE CAMBIO SE HIZO EN TEST :33333
