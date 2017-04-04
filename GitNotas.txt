@@ -15,3 +15,9 @@ git commit -m "Mensaje"
 
 git log
 //historial de commits
+
+git checkout <codigo>
+//regresar a esta version
+
+git checkout master
+//regresar al ultimo committ hecho
