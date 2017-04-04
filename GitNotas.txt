@@ -46,3 +46,5 @@ git merge <rama>
 
 git branch -D <nombre rama>
 //eliminar rama
+
+https://www.youtube.com/watch?v=Qn186NyDqOk
