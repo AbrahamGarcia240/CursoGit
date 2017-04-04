@@ -12,3 +12,6 @@ git add .
 
 git commit -m "Mensaje"
 //agrego lo que estaba en la cola dentro del repo
+
+git log
+//historial de commits
