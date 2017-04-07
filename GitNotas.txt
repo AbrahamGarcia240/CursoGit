@@ -63,5 +63,8 @@ git remote -v
 git remote remove origin
 //elimina la vinculacion al repo remoto
 
+git push origin <rama>
+//commit remoto a la rama x
+
 
 

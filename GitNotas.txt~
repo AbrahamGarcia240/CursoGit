@@ -54,11 +54,17 @@ git clone <url>
 git push -u origin master
 //push a repo 
 
+git remote add origin <url>
+//conectar a un repo remoto
+
 git remote -v
 //para saber cual es repo que se esta usando
 
 git remote remove origin
 //elimina la vinculacion al repo remoto
+
+git push origin <rama>
+//commit remoto a la rama x
 
 
 
