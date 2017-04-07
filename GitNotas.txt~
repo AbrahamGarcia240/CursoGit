@@ -65,6 +65,11 @@ git remote remove origin
 
 git push origin <rama>
 //commit remoto a la rama x
+//puede crear tambien ramas
+
+
+
+
 
 
 
