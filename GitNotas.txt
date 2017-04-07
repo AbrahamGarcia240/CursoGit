@@ -71,6 +71,20 @@ git push origin <rama>
 PARA HACER MARKDOWN
 https://stackedit.io/editor
 
+git commit -- ammend -m "nuevo mensaje"
+//cambiamos texto en el ultimo commit
+
+git push origin master .f
+//para que se suba el cambio del nombre del commit al repo remoto
+
+
+git tag -a vx.x -m "mensaje"
+//agregar una version al utlimo commit
+
+
+git push origin vx.x
+//agregar tag al repo remoto
+
 
 
 
