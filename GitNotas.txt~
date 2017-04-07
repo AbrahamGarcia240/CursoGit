@@ -54,9 +54,6 @@ git clone <url>
 git push -u origin master
 //push a repo 
 
-git remote add origin <url>
-//conectar a un repo remoto
-
 git remote -v
 //para saber cual es repo que se esta usando
 
