@@ -86,6 +86,11 @@ git push origin vx.x
 //agregar tag al repo remoto
 
 
+//JALAR CAMBIOS DEL REPO ORIGINARIO A MI REPO LOCAL
+git remote add upstream <url repo maestro>
+git fetch upstream
+git reset --hard upstream/master
+
 
 
 
